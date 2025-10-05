@@ -1,12 +1,4 @@
-# addon-nebula
-Home Assistant addon for slackhq/nebula
-
-Still in development, but as far as my use cases it appears fully functional. After I get some feedback I'll turn it into more than a locally-installed addon with some better docs.
-
-## Getting Started
-- Install the `nebula` folder in your local `/addons` folder
-- Go to the addon store, and install it as a local addon
-- Once installed, the configuration tab has options to set up your nebula overlay network (see Configuration below)
+# Documentation
 
 ## Run modes:
 ### Quickstart - UI configured Lighthouse and Cert Authority
